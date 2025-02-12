@@ -10,10 +10,10 @@ Bu projede; ```Console.WriteLine();``` ve ```Console.Write();``` kullanarak ekra
 Bu projede; değişkenler konusuna devam edildi. ```double``` ve ```char``` değişkenleri öğrenildi. Nasıl kullanılması ve hangi durumlarda kullanılması gerektiği öğrenildi. Bu değişkenler ile ilgili fiyat listesi gibi örnekler yapıldı. Değişkenler için klavyeden veri girişi (```Console.ReadLine()```) nasıl yapılır öğrenildi. Ayrıca klavyeden yapılan veri girişi string bir değişken değilse kullandığımız değişken türüne göre ```degiskenTürü.Parse(Console.ReadLine())``` işleminin yapılması gerektiği öğrenildi. 
 
 # :sunny: Proje 3
-Bu projede; bu projede If - Else karar yapıları, mod işlemleri, Switch-Case yapısı tamamlandı. Bu başlıklar altında örnek projeler yapıldı. Örneğin Switch-Case yapısı kullanarak hesap makinesi örneği yapıldı.
+Bu projede; If - Else karar yapıları, mod işlemleri, Switch-Case yapısı tamamlandı. Bu başlıklar altında örnek projeler yapıldı. Örneğin Switch-Case yapısı kullanarak hesap makinesi örneği yapıldı.
 
 # :sunny: Proje 4
-Bu projede; bu projede döngüler konusuna giriş yapıldı. For döngüsü, for döngüsü ile karar yapılarının kullanımı, While döngüsü konuları tamamlandı. Bu konular ile ilgili bir çok örnek yapıldı. Ayrıca For ile While döngüsü kullanım farkları anlaşılmış oldu. 
+Bu projede; döngüler konusuna giriş yapıldı. For döngüsü, for döngüsü ile karar yapılarının kullanımı, While döngüsü konuları tamamlandı. Bu konular ile ilgili bir çok örnek yapıldı. Ayrıca For ile While döngüsü kullanım farkları anlaşılmış oldu. 
 
 # :sunny: Proje 5
 Bu projede; 
