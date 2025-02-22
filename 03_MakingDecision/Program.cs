@@ -187,7 +187,7 @@ namespace _03_MakingDecision  // Karar Yapıları
 
             #endregion
 
-            #region Örnek Proje Uydulaması
+            #region Örnek Proje Uygulaması
 
             // örnek:
             //Console.WriteLine("****** C# Eğitim Kampı Restoran ******");
