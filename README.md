@@ -26,3 +26,9 @@ Bu projede; foreach döngüsü tamamlandı. Foreach kullanarak dizi ve liste ör
 
 # :sunny: Proje 8 (201)
 Bu projede; metotlar konusuna giriş yapıldı. Geriye değer döndürmeyen int ve string metodlar, geriye değer döndürmeyen parametreli metodlar, geriye değer döndüren int ve string metodlar, geriye değer döndüren parametreli metodlar konuları tamamlandı. Ayrıca bir çok örnek uygulama yapıldı. 
+
+# :sunny: Proje 9 (201)
+Bu projede; biraz Sql'den bahsedildi; veritabanı ve tablo oluşturma, Sql'de veri tipleri(bit, char, decimal, int, varchar, nvarchar, tinyint...), primary key(birincil anahtar) gibi Sql özellikleri tamamlandı. Sonrasında Ado.Net kullanarak sql bağlama konusundan bahsedildi ve bu konuyla ilgili örnek yapıldı. SqlConnection, SqlCommand, SqlDataAdapter gibi sınıfları kullandık.
+
+# :sunny: Proje 10 (201)
+Bu projede; CRUD(Create - Read - Update - Delete) işlemleri anlatıldı. Bu işlemleri Ado.Net kullanarak ürün ekleme, ürün listeleme, ürün silme, ürün güncelleme gibi örnekler üzerinden yaptık.
